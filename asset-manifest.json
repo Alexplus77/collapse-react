@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/collapse-react/static/css/main.e860bf05.chunk.css",
+    "main.css": "/collapse-react/static/css/main.d48e6630.chunk.css",
     "main.js": "/collapse-react/static/js/main.b288f7b0.chunk.js",
     "main.js.map": "/collapse-react/static/js/main.b288f7b0.chunk.js.map",
     "runtime-main.js": "/collapse-react/static/js/runtime-main.19549e5c.js",
@@ -8,13 +8,13 @@
     "static/js/2.6b45b5ef.chunk.js": "/collapse-react/static/js/2.6b45b5ef.chunk.js",
     "static/js/2.6b45b5ef.chunk.js.map": "/collapse-react/static/js/2.6b45b5ef.chunk.js.map",
     "index.html": "/collapse-react/index.html",
-    "static/css/main.e860bf05.chunk.css.map": "/collapse-react/static/css/main.e860bf05.chunk.css.map",
+    "static/css/main.d48e6630.chunk.css.map": "/collapse-react/static/css/main.d48e6630.chunk.css.map",
     "static/js/2.6b45b5ef.chunk.js.LICENSE.txt": "/collapse-react/static/js/2.6b45b5ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19549e5c.js",
     "static/js/2.6b45b5ef.chunk.js",
-    "static/css/main.e860bf05.chunk.css",
+    "static/css/main.d48e6630.chunk.css",
     "static/js/main.b288f7b0.chunk.js"
   ]
 }
