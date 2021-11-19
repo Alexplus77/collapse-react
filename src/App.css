@@ -27,8 +27,10 @@ body{
 justify-self: left;
     align-self: center;
     padding: 20px;
-
 }
 .btn{
     cursor: pointer;
+}
+.fa{
+   color: #b2b1b1;
 }
