@@ -1,0 +1,2 @@
+body{display:grid;font-family:"Lato",sans-serif;font-family:"Roboto",sans-serif;align-items:center;justify-items:center}.container{display:grid;width:700px;border:1px solid #cbc9c9;border-radius:5px;text-align:left;padding:5px}.paragraph{opacity:0;animation:p 2s forwards}@keyframes p{0%{opacity:0}to{opacity:1}}.container-btn{justify-self:left;align-self:center;padding:20px}.btn{cursor:pointer;border:none;border-bottom:1px dashed;font-size:17px;background-color:#fff}.fa{color:#605f5f}
+/*# sourceMappingURL=main.537c04d7.chunk.css.map */
