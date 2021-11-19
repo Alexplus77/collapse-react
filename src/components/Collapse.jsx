@@ -7,7 +7,7 @@ const Collapse = ({children, handleExpandedChange, expanded, collapsedLabel, exp
             {expanded && children}
             <div className='container-btn'>
             <button className='btn' onClick={handleExpandedChange}>{expanded ? expandedLabel : collapsedLabel}
-                <i className={cn({"fa fa-chevron-down": !expanded, "fa fa-chevron-up": expanded})} aria-hidden="true"/>
+                {' '}   <i className={cn({"fa fa-chevron-down": !expanded, "fa fa-chevron-up": expanded})} aria-hidden="true"/>
             </button>
 
         </div>

@@ -30,6 +30,11 @@ justify-self: left;
 }
 .btn{
     cursor: pointer;
+    border: none;
+    border-bottom: 1px dashed;
+    font-size: 17px;
+    background-color: white;
+
 }
 .fa{
    color: #605f5f;
