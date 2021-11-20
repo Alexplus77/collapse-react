@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/collapse-react/static/css/main.537c04d7.chunk.css",
-    "main.js": "/collapse-react/static/js/main.5066e27b.chunk.js",
-    "main.js.map": "/collapse-react/static/js/main.5066e27b.chunk.js.map",
+    "main.css": "/collapse-react/static/css/main.4295bdfb.chunk.css",
+    "main.js": "/collapse-react/static/js/main.213e07e7.chunk.js",
+    "main.js.map": "/collapse-react/static/js/main.213e07e7.chunk.js.map",
     "runtime-main.js": "/collapse-react/static/js/runtime-main.19549e5c.js",
     "runtime-main.js.map": "/collapse-react/static/js/runtime-main.19549e5c.js.map",
     "static/js/2.6b45b5ef.chunk.js": "/collapse-react/static/js/2.6b45b5ef.chunk.js",
     "static/js/2.6b45b5ef.chunk.js.map": "/collapse-react/static/js/2.6b45b5ef.chunk.js.map",
     "index.html": "/collapse-react/index.html",
-    "static/css/main.537c04d7.chunk.css.map": "/collapse-react/static/css/main.537c04d7.chunk.css.map",
+    "static/css/main.4295bdfb.chunk.css.map": "/collapse-react/static/css/main.4295bdfb.chunk.css.map",
     "static/js/2.6b45b5ef.chunk.js.LICENSE.txt": "/collapse-react/static/js/2.6b45b5ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19549e5c.js",
     "static/js/2.6b45b5ef.chunk.js",
-    "static/css/main.537c04d7.chunk.css",
-    "static/js/main.5066e27b.chunk.js"
+    "static/css/main.4295bdfb.chunk.css",
+    "static/js/main.213e07e7.chunk.js"
   ]
 }
