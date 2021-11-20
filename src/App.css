@@ -6,6 +6,7 @@ body{
     justify-items: center;
 }
 .container{
+    margin-top: 20px;
     display: grid;
     width: 700px;
     border: 1px #cbc9c9 solid;
